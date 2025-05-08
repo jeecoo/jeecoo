@@ -78,8 +78,22 @@
 
 ---
 
+## 🚀 My Projects
+### Website Design Projects (Figma) ###
+* **Communnect**
+    * A mobile app design. Communnect is an app for the community for information and services.
+    * [View Design in Figma](https://www.figma.com/proto/7Ea0jiaHDyttc6uYgjvAzE/FIGMA-PROJECTS?page-id=0%3A1&node-id=427-534&p=f&viewport=352%2C538%2C0.03&t=fehiGynOIOI2cqcM-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=423%3A390&show-proto-sidebar=1)
+
+* **Elected**
+    * A website design. Elected is an advance online voting app.
+    * [View Design in Figma](https://www.figma.com/proto/7Ea0jiaHDyttc6uYgjvAzE/FIGMA-PROJECTS?page-id=746%3A955&node-id=746-956&p=f&viewport=405%2C319%2C0.06&t=SDbc7AoUDfARJBUz-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=746%3A956)
+
+### Development Projects (Ongoing) ###
+* **VIBRO**
+    * A mobile app for the deaf using AI.
+---
+
 ### ✍️ Random Quote for You:
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
-
 
 ---
