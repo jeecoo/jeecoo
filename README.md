@@ -19,7 +19,8 @@
 🌱 Always learning, with a current focus on **AI & Machine Learning**.<br>
 🎨 I also love Graphic and Website Design<br>
 ⚡ Fun fact: Huge **Marvel** enthusiast!<br>
-📫 How to reach me: Connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-mark-econar-335a1427b/) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnmark.econar7@gmail.com)
+📫 How to reach me: 👇👇👇<br><br> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-mark-econar-335a1427b/) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnmark.econar7@gmail.com)
 
 ---
 
@@ -71,7 +72,7 @@
 ---
 ### 📊 GitHub Stats:
 
-|   |   |
+|    |    |
 |---|---|
 | ![](https://github-readme-stats.vercel.app/api?username=Jeecoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=Jeecoo&theme=dark&hide_border=false) |
 | ![](https://github-contributor-stats.vercel.app/api?username=Jeecoo&limit=5&theme=dark&combine_all_yearly_contributions=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeecoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
