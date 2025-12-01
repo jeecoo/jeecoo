@@ -11,11 +11,11 @@
 
 <br><br>
 
-***👋 Hi, I'm JM!*** *I'm a 3rd Year Computer Science Student in Cebu Institute of Technology-University*
+***👋 Hi, I'm JM!*** *I'm a Computer Science Student in Cebu Institute of Technology-University*
 
 <br>
 
-🔭 Currently working on a project called **VIBRO** - a mobile app for the deaf using AI.<br>
+🔭 Currently working on **VIBRO** - a mobile AI-powered critical sound identifier for the deaf.<br>
 🌱 Always learning, with a current focus on **AI & Machine Learning**.<br>
 🎨 I also love Graphic and Website Design<br>
 ⚡ Fun fact: Huge **Marvel** enthusiast!<br>
